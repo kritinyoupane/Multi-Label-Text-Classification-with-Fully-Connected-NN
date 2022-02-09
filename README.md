@@ -22,6 +22,14 @@ Train the neural network from the colab code or directly import it from the mode
 # Making the Predictions
 One can make the prediction and calculate f1 score on either validation or test dataset running the function **predictions_f1score**.
 
-#Team Info
+# Summary 
+We have used the Fully Connected Neural Network as our model for this project. Packages like Tensorflow,SkLearn, Numpy, Pandas, matplotlib, seaborn, and so on are used as required. It takes almost 1 hour 40 minutes to train the model. 
+
+# System Specifications 
+We have used Google Colab for training our model. Google Colab uses python 3 Google Compute engineer backend.
+Total Ram provided by google colab: 12.69 GB (used almost 4 GB)
+Disk Space: 42.16GB/107.72GB
+
+# Team Info
 Kriti Nyoupane - kritineupane544@gmail.com
 Gaurav Jyakhwa - gjyakhwa1@gmail.com
